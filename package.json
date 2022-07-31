@@ -1,0 +1,22 @@
+{
+  "name": "consto",
+  "version": "1.0.0",
+  "description": "Multinational Company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniketrok07/Consto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniketrok07/Consto/issues"
+  },
+  "homepage": "https://github.com/aniketrok07/Consto#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
